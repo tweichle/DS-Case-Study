@@ -1,5 +1,5 @@
 # DS-Case_Study
-### Data Science - Parts Demand Case Study
+### Data Science - Parts Demand Case Study in Python
 
 This repository contains the analysis of a parts demand case study.
 
