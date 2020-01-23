@@ -1,4 +1,4 @@
-# DS-Case_Study
+# DS-Case-Study
 ### Data Science - Parts Demand Case Study with Linear Regression Application in Python Using scikit-learn
 
 This repository contains the analysis of a parts demand case study.
